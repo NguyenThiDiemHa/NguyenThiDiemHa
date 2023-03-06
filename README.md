@@ -1,13 +1,19 @@
-### Hi there 👋
 
-<!--<h1 align="center">Hi 👋, I'm Diem Ha</h1>
+<h1 align="center">Hi 👋, I'm Diem Ha</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" alt="nguyenthidiemha" /> </p>
+<p align="center"> <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" alt="nguyenthidiemha" /> </p>
 
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **diemhakawaii@gmail.com**
+<p align="center">
+ 🔭 I’m currently working on ...<br>
+ 🌱 I’m currently learning ...<br>
+ 👯 I’m looking to collaborate on ...<br>
+ 🤔 I’m looking for help with ...<br>
+ 💬 Ask me about **Android**<br>
+ 📫 How to reach me **diemhakawaii@gmail.com**<br>
+ 😄 Pronouns: ...<br>
+ ⚡ Fun fact: ...<br>
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,14 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthidiemha&show_icons=true&locale=en" alt="nguyenthidiemha" /></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
